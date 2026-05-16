@@ -1,4 +1,5 @@
-<h1 align="center">✨✨ Welcome to My GitHub Profile ✨✨</h1>
+<h1 align="center">Hi 👋 I'm Trisha Anil Thepale</h1>
+<h3 align="center">Second-Year Computer Science Engineering Student</h3>
 
 ###
 
@@ -23,9 +24,19 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=trisha10-ui&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trisha10-ui&theme=tokyonight&hide_border=true" height="150" alt="streak graph"  />
 </div>
+
+###
+
+<h1 align="left">Contribution Graph</h1>
+
+###
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/trisha10-ui/trisha10-ui/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
 
 ###
 
@@ -61,17 +72,24 @@
 
 <h1 align="left">Connect With Me</h1>
 
-
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="https://linkedin.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+
+  <a href="https://instagram.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+
+  <a href="https://telegram.org">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+
+  <a href="mailto:trishathepale1016@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
 </div>
 
 ###
-<p align="center">
-  <img src="https://raw.githubusercontent.com/trisha10-ui/trisha10-ui/output/github-contribution-grid-snake-dark.svg" />
-</p>
