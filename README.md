@@ -1,12 +1,12 @@
-<h1 align="center">Hey 👋What's Up?</h1>
+<h1 align="center">✨✨ Welcome to My GitHub Profile ✨✨</h1>
 
 ###
 
-<h1 align="left">About  Me</h1>
+<h1 align="left">About Me</h1>
 
 ###
 
-<p align="center">My name is Trisha Anil Thepale and I'm a second-year Computer Science Engineering student from India 🇮🇳 Currently learning C++, Python, DSA, SQL, and exploring AI/ML.</p>
+<p align="center">My name is Trisha Anil Thepale, and I'm a second-year Computer Science Engineering student from India 🇮🇳 passionate about software development, problem solving, and AI/ML technologies.</p>
 
 ###
 
@@ -14,7 +14,18 @@
 
 ###
 
-<p align="left">✨✨✨✨✨✨✨✨✨✨<br><br>💻 Second-Year Computer Science Engineering Student  <br><br>⚡ Skilled in C, Java, HTML, CSS, JavaScript & Data Structures  <br><br>📚 Currently learning C++, Python, DSA & SQL  <br><br>🎯 Goals: Aspiring AI/ML Specialist<br><br>🎲 Fun fact: I’m building strong coding fundamentals now with the goal of specializing in AI & ML in the future.<br><br>✨✨✨✨✨✨✨✨✨✨</p>
+<p align="left">✨✨✨✨✨✨✨✨✨✨<br><br>💻 Second-Year Computer Science Engineering Student  <br><br>⚡ Skilled in C, Java, HTML, CSS, JavaScript & Data Structures  <br><br>📚 Currently learning C++, Python, DSA & SQL  <br><br>🤖 Aspiring AI/ML Specialist  <br><br>🚀 Building projects to strengthen development and problem-solving skills  <br><br>🎲 Fun fact: Every project I build teaches me something new beyond coding.<br><br>✨✨✨✨✨✨✨✨✨✨</p>
+
+###
+
+<h1 align="left">GitHub Stats</h1>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" height="150" alt="streak graph"  />
+</div>
 
 ###
 
@@ -44,11 +55,12 @@
 
 ###
 
-<h3 align="left">Exploring the world of software development and Artificial Intelligence with curiosity, consistency, and a strong learning mindset.</h3>
+<h3 align="left">Exploring software development and Artificial Intelligence with curiosity, consistency, and a strong learning mindset.</h3>
 
 ###
 
 <h1 align="left">Connect With Me</h1>
+
 
 ###
 
@@ -60,3 +72,6 @@
 </div>
 
 ###
+<p align="center">
+  <img src="https://raw.githubusercontent.com/trisha10-ui/trisha10-ui/output/github-contribution-grid-snake-dark.svg" />
+</p>
