@@ -24,8 +24,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=trisha10-ui&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trisha10-ui&theme=tokyonight&hide_border=true" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=trisha10-ui&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+  
+  <img src="https://streak-stats.demolab.com?user=trisha10-ui&theme=tokyonight&hide_border=true" height="150" />
 </div>
 
 ###
@@ -35,7 +36,7 @@
 ###
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/trisha10-ui/trisha10-ui/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/trisha10-ui/trisha10-ui/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
 ###
