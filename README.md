@@ -9,7 +9,7 @@
 ###
 
 <div align="center">
-  <img height="250" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" />
+  <img height="250" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" />
 </div>
 
 ###
