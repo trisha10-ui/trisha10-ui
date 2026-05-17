@@ -8,8 +8,8 @@
 
 ###
 
-<div align="center">
-  <img height="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<<div align="center">
+  <img height="250" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" />
 </div>
 
 ###
