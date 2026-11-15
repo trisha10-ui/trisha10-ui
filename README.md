@@ -38,9 +38,9 @@ My name is Trisha Anil Thepale, and I'm a second-year Computer Science Engineeri
 
 💻 Second-Year Computer Science Engineering Student  
 
-⚡ Skilled in C, Java, HTML, CSS, JavaScript & Data Structures  
+⚡ Skilled in C, Java, HTML, CSS, JavaScript, Data Structures & C++  
 
-📚 Currently learning C++, Python, DSA & SQL  
+📚 Currently learning Python, DSA in C++ & SQL  
 
 🤖 Aspiring AI/ML Specialist  
 
